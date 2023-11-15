@@ -1,14 +1,9 @@
-# NASAPalooza : Revolutionizing Research for NASA with LLM’s 
-Research Rovers AI Research Assistants for NASA
+# airesearch : Assisting reseachers with LLM’s 
 
 # Demo
-
-Demo Video in documentations/Palooza Handson Demo.mp4
-
 <video 
 src="documentations/Palooza Handson Demo.mp4">
 </video>
-
 
 
 # Introduction
